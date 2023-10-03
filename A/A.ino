@@ -62,8 +62,8 @@ File filewriter;
 Preferences preferences;
 unsigned long bootcount = 0;
 
-String default_ssid = "wardriver.uk";
-const char* default_psk = "wardriver.uk";
+String default_ssid = "Wardriver";
+const char* default_psk = "BuckDaTruck";
 
 /* The recently seen MAC addresses and cell towers are saved into these arrays so that the 
  * wardriver can detect if they have already been written to the Wigle CSV file.
